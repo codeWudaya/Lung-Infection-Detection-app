@@ -1,0 +1,8 @@
+streamlit==1.22.0
+matplotlib
+numpy==1.23.5
+pandas
+joblib
+scikit-learn
+tensorflow==2.12.0
+PIL
